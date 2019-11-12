@@ -2,7 +2,6 @@ install preferred software and record steps and output
 clone this repo
 clone the dotfiles repo
 start a confluence page for onboarding notes
-get hardware links
 find MOOCs on CLTV
 find papers and tutorials on CLTV
 find tutorials on Snowflake and Periscope
