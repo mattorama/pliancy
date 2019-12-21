@@ -1,13 +1,35 @@
-install preferred software and record steps and output
-clone this repo
-clone the dotfiles repo
-start a confluence page for onboarding notes
-find MOOCs on CLTV
-find papers and tutorials on CLTV
-find tutorials on Snowflake and Periscope
-find papers and tutorials on incentive design for customer acquisition
-start a project with python packages installed for data reading and plotting
-start a project with rstudio packages installed for data reading and plotting
-read about ogsm objectives goals strategies measures
-tests for sql queries
-setup sqlite and postgres databases for testing queries
+# today
+
+08 
+09 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+
+# this week
+
+Mo: 
+Tu: 
+We: 
+Th: 
+Fr: 
+
+# forecasting
+
+triage project improvements
+
+# lead scoring
+
+document outline project
+triage tools for generating results
+
+# setup
+
+
+
+# company
+
