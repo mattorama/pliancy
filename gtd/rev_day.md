@@ -1,3 +1,199 @@
+2020-02-
+
+done:
+next:
+
+2020-02-14
+
+done:
+next:
+
+2020-02-13
+
+done:
+next:
+
+2020-02-12
+
+done:
+next:
+
+2020-02-11
+
+done:
+next:
+
+2020-02-10
+
+done:
+next:
+
+2020-02-07
+
+done: implementation diagrams
+done: metrics and interpretation diagrams
+next: performance by time window (survival analysis)
+
+2020-02-06
+
+done: model evaluation
+next: performance metrics 
+
+2020-02-05
+
+done: ml utility functions for scaling predictions
+done: snapshot goals
+done: edit squad goal writeup
+done: help AM with assignment
+next: slice data for window of survival
+
+2020-02-04
+
+done: model validation report
+done: modeling, feature selection
+done: goal update in daily goal/forecast
+done: fix bug around snapshots of goals
+done: help engineer with schema locations
+next: model robustness investigation
+next: model counts with category C leads
+next: snapshot goals
+
+2020-02-03
+
+done: data cleaning in sql
+next: modeling of self-serve
+
+2020-01-31
+
+done: big joins and categories
+next: data cleaning
+
+2020-01-30
+
+done: data cleaning
+next: categories for data
+
+2020-01-29
+
+done: quantified success size
+next: find significant features
+
+2020-01-28
+
+done: wrote sql aggregates for objects
+next:
+
+2020-01-27
+
+done: generated exploratory dashboard on activations
+next:
+
+2020-01-24
+
+done: wrote sql inclusion/exclusion queries on objects
+next:
+
+2020-01-23
+
+done: got treatment labels for users
+next:
+
+positive endorsement for my modeling work
+
+2020-01-22
+
+done: traced payments through tables on plastiq_data
+next:
+
+she boasts about making money from old company... out of touch
+
+2020-01-21
+
+done: data joining with Nickie
+done: project planning reorg
+next: put labeled data together
+next: start exploring data set
+next: setup project
+next: quantify size of success
+
+2020-01-17
+
+done: project meeting, document and plan was well received
+done: reading on rules-based lead scoring
+next: setup project
+next: gather data sources
+next: quantify size of success
+
+she asks me if I will be able to "make up" the 2 hours...
+she said over the phone later that she trusts us so no need to put PTO 
+
+2020-01-16
+
+done: two page product definition document
+done: project plan
+done: optimizely and experimentation practice
+next: meet to discuss product definition and project plan
+
+2020-01-15
+
+done: data source gathering and understanding: payments, users, cards, payees
+done: brainstorm on lead scoring
+next: create project plan for lead scoring for january
+
+told not to attend lead scoring meeting with business partners
+bizarre decision that prevents me from understanding stakeholders
+to add further insult, she says it was "to not confuse me"
+how can I learn context if I am forbidden from interacting with stakeholders?
+classic micromanaging...
+
+2020-01-14
+
+done: 30 day TUTV daily/monthly forecasts
+done: comparison of forecast residuals
+done: discuss lead scoring deliverables with wenying
+done: long term forecast
+next: data source gathering for lead scoring
+next: design pipeline
+next: draft one-pager
+next: timeline
+
+2020-01-13
+
+done: historic goal/forecast for TUTV daily model
+done: connected goals with Alex
+done: data_load postgres/mysql transfer code
+done: created squad definition SQL snippet that was readable and fixed errors
+help: troubleshooting Alex's SQL
+next: 30 day TUTV daily/monthly forecasts
+
+received a request for dashboards that I responded to
+response was ungrateful, along with some irrelevant chastising
+asked for clarification, was ignored
+turns out she was asking for something else, but would not admit her error
+
+2020-01-10
+
+done: documented dependencies in project
+done: removed fake goals in lieu of monthly forecast
+done: learned about lead scoring complexity
+done: agreed on interface for goals with Alex
+blocked: waiting for real goals
+next: map out process for lead scoring
+next: script for saving forecasts
+next: update monthly goal... if I get it
+
+2020-01-09
+
+done: fixed special projects definition with nice SQL snippet
+done: fixed views to use [payments] view without joins
+done: documented and checked views DAG for TUTV monthly, daily forecasting and daily goal
+next: learn about lead scoring vision from Mark and Wen-Ying
+next: include real goals for daily model
+next: trim lower bound of plot
+
+Alex: inappropriate to reformat my code, particularly if using bad style
+General: the squad goal inconsistency for TUTV month to date has been fixed
+
 2019-12-13
 
 done: presented at showandtell
