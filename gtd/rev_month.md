@@ -6,13 +6,34 @@ learnt:
 
 done:
 
+2020-Feb
+
+next: monitor and evaluate daily self-serve score
+next: migrate to snowflake
+next: migrate to new BI tool
+next: get data science environment set up and deployed
+next: design and get support for ae-touch score
+
+learnt: horrible leadership takes no responsibility for overhiring
+
+done: two model evaluations
+done: benchmark model for predicting activation
+done: delivered self-serve score and recommendation to sales
+
 2020-Jan
 
-next:
+next: model evaluation
+next: model deployment
+next: fancy SQL for generating aggregates
 
-learnt:
+learnt: survival analysis modeling is hard
 
-done:
+done: updated forecast model to work with new squad definitions and archive
+done: giant feature creation pipeline for self-serve model
+done: determined scale of success for model
+done: lead scoring project plan and one-pager
+
+wins: commentary on forecast model accuracy
 
 2019-Dec
 

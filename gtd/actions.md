@@ -1,44 +1,42 @@
 # from WYF
 
-self-serve activation score
+...
 
 # next
 
-next: generate some benchmark predictions for self-serve activation score
+next: daily/monthly forecast updates
+next: troubleshoot self-serve deploy and design evaluation
+next: propose data science environment
 
-* improve lead scoring data labeling
-  * redo touch based on mark's insight
-  * redo identify smb with nickie
-  * 
-  * get lead score and category for each entity
-* check in on forecast
-  * snapshot on Monday/Sunday of forecast
+# waiting for
+
+goal update: when available I should run the snapshot of the forecast
 
 ## right now
 
-code to get important features
-code to split results by longevity of user
-design to evaluate over different windows of data
+feature reduction
+project plan update
+
 
 # today
 
 08 
 09 
-10 
-11 
+10 feature triage
+11 historic snapshot setup
 12 lunch
 13 
 14 
-15 
-16 
+15 wrap up snowflake/self-serve
+16 review
 
 # this week
 
-Mo: DONE build models
-Tu: DONE present and discuss model with WYF at 1 pm
-We: cross validation and feature selection
-Th: model robustness
-Fr: present initial performance and features
+Mo: 
+Tu: 
+We: 
+Th: 
+Fr: 
 
 # forecasting
 
@@ -48,7 +46,7 @@ Fr: present initial performance and features
 
 # lead scoring
 
-* robustness of scores across survival time of user
+* project delivery
 
 # company
 
@@ -57,9 +55,11 @@ Fr: present initial performance and features
 # analytics
 
 * push for server-side automation
-* plan team activity for end of february
-* ask for team to move to own space
 
 # questions
 
 wenying: check heap dashboard: https://app.periscopedata.com/app/plastiq1517956069:plastiq-snowflake/574547/Examples
+wenying: periscope replacement for modeling?
+team: big correction in volume
+
+

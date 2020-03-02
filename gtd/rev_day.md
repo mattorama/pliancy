@@ -1,38 +1,160 @@
-2020-02-
+2020-03-
 
 done:
 next:
+
+2020-02-28
+
+done: reduced features in self-serve training pipeline
+done: uploaded one-time table to snowflake
+next: resolve automation of score generation
+next: outline data science environment
+next: check and troubleshoot monthly forecast
+
+2020-02-27
+
+done: automation of self-serve score generation
+done: resolution with data engg on how to load to snowflake
+
+unhelpful comment from wyf when i asked for help from data engineering
+she undermined my reasonable request for access to a tool to do my job
+blocked by lack of access to do tools to do my job
+
+next: dumping self-serve scores onto snowflake
+
+2020-02-26
+
+done: executable for running self-serve scores
+next: complete the automation of self-serve scores on periscope
+
+2020-02-25
+
+done: created epic for data science environment
+done: agreement from various tech people on how to put data into snowflake
+
+wyf refused to listen to the solution to the problem and started proposing her own, which in fact was not possible to execute
+wyf undermined my thoughtful design in front of my peers without even thinking about the problem to solve
+
+next: finish automation
+
+2020-02-24
+
+done: completed datatable cleaning refactor
+next: refactor python notebook into periscope executable
+
+2020-02-21
+
+done: successful execution meeting
+done: production datatable
+
+rude rohit (impatient), rude wenying (ignored me), rude devin (butted in) (only person to give me an apology)
+
+next: datatable cleaning
+
+2020-02-20
+
+done: fixed bugs in analysis, updated reports
+done: scheduled stakeholders and created issues list
+
+next: datatable cleaning
+
+2020-02-19
+
+done: wrote up improved report
+done: drafted schema for table
+done: met with sean
+done: designed automation for self-serve scoring
+done: drafted showandtell story
+
+aaf interuption from mark barging in to my meeting with sean
+
+next: implement automation approach for self-serve scoring
+next: follow-up with stakeholders for self-serve score
+
+2020-02-18
+
+done: presented model
+done: demonstrated scores split those who would activate
+
+next: schema document and meeting
+next: call-to-action document and follow-ups
+next: design automation
+
+win: model looks good to release
 
 2020-02-14
 
-done:
-next:
+done: evaluated new model
+done: wrote model report
+next: schema design and population for handshake with salesforce
+
+condescending "aww" remark when I said I would be WFH on Monday to get model done
+team space request from last week has been ignored
+conclusion: not given tools to do my best work, not appreciated for the work I do
 
 2020-02-13
 
-done:
-next:
+done: developed aggreates on different time period
+done: new "time since" features
+next: evaluate new model
+
+drive by because she suddenly realized the limitation I described to her
+wants me to describe everything about how a user is scored... has she heard anything I have said?
+continues to draw incorrect conclusion about consequence of earlier decision
 
 2020-02-12
 
-done:
-next:
+done: random asks from wenying
+done: figured out why activation rate is so high among deferrals
+next: schema for model results
+next: 
+
+passive aggressive leadership mocking people post lay-offs
 
 2020-02-11
 
-done:
-next:
+done: analysis of january referral
+next: wrap up survival analysis
+next: random asks from wenying
+
+does not care in the slightest to hear about how i am doing in one-on-one
+derides my presentation skills with false dichotomy about what to present
+ridicules my work as "cute"
+asks me how much longer until project is done when she keeps changing the objectives
+disparages my careful thoughts in design and results generation as "engineering"
 
 2020-02-10
 
-done:
-next:
+done: survival analysis for lifetimes of reg-complete users
+next: january referral analysis
+
+she asks for all my subtasks to be added to her tracking spreadsheet
+more micromanagement, non-results focus
+i stop and lose the best part of the morning to shuffling pointless things
+she says "so the team can see the progress" when she is the only one looking
+offers me her leftovers as one would to their dog
 
 2020-02-07
 
 done: implementation diagrams
 done: metrics and interpretation diagrams
 next: performance by time window (survival analysis)
+
+she tells us that people who aren't "performing" should be fired
+as if non-management are circus animals
+i asked about which other team formerly under serena would be affected
+she responds by telling me my work is valued...
+
+she insists that we have a team outing for "fun"
+despite the fact she is measuring performance by counts of tasks done
+she has no long tenure, which is why she burns out her teams and then has to leave
+there is not less work to be done if we take an afternoon off, just more things to be caught up with at the weekend
+
+definitely not appreciated here
+i don't have the tools to do my best work
+nor am i permitted to plan or define the problem by speaking with stakeholders
+remember, she insisted that I not be a part of the stakeholder meeting because it "would be a waste of my time"
+remember, she can say she asked me my opinion, but we have established she doesn't care to hear my opinion i she asks for it
 
 2020-02-06
 
@@ -44,7 +166,7 @@ next: performance metrics
 done: ml utility functions for scaling predictions
 done: snapshot goals
 done: edit squad goal writeup
-done: help AM with assignment
+done: help AM with assignment, no gratitude
 next: slice data for window of survival
 
 2020-02-04

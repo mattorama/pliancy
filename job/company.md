@@ -86,3 +86,34 @@ not unusual volume 4/30/2019: is this the tax cut in action?
 other hypotheses for this difference?
 canadian revenue agency put plastiq as credit card option in 2019
 in 2018 we were the second option
+
+
+Notes about business in `pliancy`
+
+Goal is 40 bps, which on 200 MM volume per month is 8 MM net margin.
+Currently at 500K per month net margin
+
+100 x 250K pa is 25 MM pa, so 2 MM per month salaries
+2 MM per month in other operating costs
+
+take rate (revenue)
+- COGS (discounts)
+= gross margin
+- promos, ffds, rebates
+= net margin (500K)
+- op costs (4 MM)
+= net profit (-3.5 MM)
+
+68 MM in the bank
+June 2020 @ -2.5 MM per month gives 18 months runway
+
+COGS consists of
+interchange (170 bps) (bank)
+acquirer (20 bps) (vantiv)
+assessment (10 bps) (card brand)
+fraud, chargebacks (5 bps)
+
+
+$30/hr support
+3300 hours on support
+$100K supporting onboarding

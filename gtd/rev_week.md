@@ -1,8 +1,56 @@
-2020-02-
+2020-03-
 
 next: 
 learnt: 
 done: 
+
+2020-03-06
+
+next: 
+learnt: 
+done: 
+
+2020-02-28
+
+next: daily/monthly forecast updates
+next: troubleshoot self-serve deploy and design evaluation
+next: propose data science environment
+
+learnt: data engg does not understand data sci needs and tools in place
+learnt: I really do not have the tools or the trust to do my job well
+learnt: I need to take the lead on improving the pool of common understanding
+
+done: delivered self-serve scores to segment/salesforce
+done: completed self-serve score refactor to executable
+
+2020-02-21
+
+next: finish refactor of self-serve score
+next: take the self-serve score over the finish line and evaluate
+next: begin designing ae activation score
+
+learnt: the data science / operations handshake is quite weak and needs my leadership
+learnt: I am really not respected nor treated with any dignity by management
+learnt: wenying does a great job of translating the model results
+
+done: sql refactor for streamlined model deployment
+done: successful execution meeting due to my agenda and call-to-action document
+done: designed schema for self-serve delivery mechanism and met with technical stakeholders to deliver it
+done: model evaluation shows great identification of potentials
+
+2020-02-14
+
+next: schema for implementing model
+next: automate lead score generation
+next: design for sensitivity analysis data generation
+
+learnt: leadership are horrible people
+learnt: salesforce data model
+learnt: pushed into doing preso when actively harassed into not preparing
+
+done: model evaluation on different touch
+done: january evaluation
+done: tighter definitions of handshake with Salesforce, touch, etc.
 
 2020-02-07
 
@@ -30,7 +78,6 @@ learnt: I do not need to worry about time up front
 
 done: aggregates for flat table
 done: quantified success for self-serve score
-done:
 
 win: coworker commented in passing how accurate the model is
 win: wyf acknowledged my performance as exceeding expectations
