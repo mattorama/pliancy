@@ -3,6 +3,47 @@
 done:
 next:
 
+
+2020-03-06
+
+done:
+next:
+
+2020-03-05
+
+done:
+next:
+
+2020-03-04
+
+done: features subset for self serve score evaluation and release
+done: security training
+done: 
+next: knowledge share self-serve score model
+next: ae touch project planning
+next: ds environment writeup
+
+2020-03-03
+
+done: triaged features for periscope deploy of self-serve score
+done: daily goal update and snapshot
+done: snowflake warehouse troubleshooting with sriram
+next: ae touch model plan
+next: ds enviroment requirements plan
+next: self-serve evaluation plan
+next: aws lambda ticket for running self-serve snapshot to snowflake code
+
+2020-03-02
+
+done: updated environments for python code
+done: feature subset code in python
+done: snowflake snapshot code
+done: jira and task log updates
+
+horrible service from data engg leaving me hanging for half a day
+
+next: feature subset code
+
 2020-02-28
 
 done: reduced features in self-serve training pipeline

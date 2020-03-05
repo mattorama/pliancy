@@ -1,42 +1,47 @@
 # from WYF
 
-...
+Analytics Knowledge Sharing topic: User self serve score
+Data file transfer from Periscope to Snowflake: Matt
+Design and configure data science platform: Matt
+AE response score kick-off: Matt
 
 # next
 
-next: daily/monthly forecast updates
-next: troubleshoot self-serve deploy and design evaluation
-next: propose data science environment
+troubleshoot self-serve deploy and design evaluation
+propose data science environment
+ticket for automation of kaataa into snowflake/data load
+channel for data science environment
+
 
 # waiting for
 
-goal update: when available I should run the snapshot of the forecast
+data engg: snowflake access
 
 ## right now
 
-feature reduction
+self-serve knowledge share outline
 project plan update
 
 
 # today
 
-08 
-09 
-10 feature triage
-11 historic snapshot setup
-12 lunch
-13 
-14 
-15 wrap up snowflake/self-serve
-16 review
+08 DONE setup
+09 DONE fewer features
+10 DONE review tasks / update project plan
+11 outline evaluation
+12 DONE lunch / security training
+13 prep knowledge share
+14 outline ae touch model
+15 outline ds environment
+16 plan thursday
 
 # this week
 
-Mo: 
-Tu: 
-We: 
-Th: 
-Fr: 
+Mo: DONE data file transfer
+Tu: DONE reduce model features for periscope
+We: ds environment requirements gathering
+Th: knowledge share
+Fr: ae touch plan review
 
 # forecasting
 
